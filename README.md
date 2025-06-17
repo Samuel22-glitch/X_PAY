@@ -1,4 +1,4 @@
-# X_PAY
+# Bank_App
 Banking interface using streamlit library
 ## AMADE OJOCHIDE - CURRENT USER INTERFACE: 
 Designed the user interface using Various streamlit functions of the Current account
