@@ -12,3 +12,6 @@ Designed the user interface using Various streamlit functions of the Savings acc
 
 ## AJUDUA CHUKWUFUNANYA SAMUEL - HOME PAGE:
 Desingned the UI and by writing code for the home page and helped in error handeling 
+
+## PIYADI JEROME TARAGI - CURRENT BACKEND:
+Developed the parent code for the current account user interface 
