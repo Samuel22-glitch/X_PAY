@@ -4,7 +4,7 @@ from account import Account
 
 
 balance = 100000
-limit = 10000
+limit = 100000
 
 class Savingsaccount(Account):
     def __init__(self,balance):
